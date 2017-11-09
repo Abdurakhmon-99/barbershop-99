@@ -1,0 +1,38 @@
+h4{
+	color:red;
+	align-content: center;
+	font-family: cursive;
+	text-align: center;
+	align-items: center;
+
+}
+h2{
+	color: darkblue;
+	align-content: center;
+	text-align: center;
+}
+h3{
+	align-content: center;
+	text-align: center;
+	color: darkblue;
+}
+p{
+		align-content: center;
+	font-family: cursive;
+	text-align: center;
+	align-items: center;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 20%;
+    table-layout: center;
+    margin-left: auto;
+	margin-right: auto;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
