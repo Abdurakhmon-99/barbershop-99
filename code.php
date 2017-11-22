@@ -38,7 +38,8 @@ function logData()
 	fclose($log); 
 } 
 
-logData(); 
+logData();
 
+echo '<b>Page Under Construction</b>'
 ?>
  
